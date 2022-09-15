@@ -1,9 +1,9 @@
-Basic ST
+# Basic ST
 
 
-Lazy ST
+# Lazy ST
 
 
-Persistent ST
+# Persistent ST
 
-https://codeforces.com/contest/786/problem/C
+[CF C. Till I Collapse]https://codeforces.com/contest/786/problem/C
