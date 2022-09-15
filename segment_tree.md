@@ -18,7 +18,8 @@
 
 # Persistent ST
 * __Blogs__
-
+ * [USACO Persistent Data Structures](https://usaco.guide/adv/persistent?lang=cpp)
+ * [CC Persistence Made Simple - Tutorial](https://discuss.codechef.com/t/persistence-made-simple-tutorial/14915/4)
 
 
 * __Problems__
