@@ -19,9 +19,9 @@
 # Persistent ST
 * __Blogs__
  * [USACO Persistent Data Structures](https://usaco.guide/adv/persistent?lang=cpp)
- * [CC Persistence Made Simple - Tutorial](https://discuss.codechef.com/t/persistence-made-simple-tutorial/14915/4)
+ * [Persistence Made Simple - Tutorial](https://discuss.codechef.com/t/persistence-made-simple-tutorial/14915/4)
 
 
 * __Problems__
 
-  * [CF C. Till I Collapse](https://codeforces.com/contest/786/problem/C)([submission](https://codeforces.com/contest/786/submission/172295333))
+  * [C. Till I Collapse](https://codeforces.com/contest/786/problem/C) ([submission](https://codeforces.com/contest/786/submission/172295333))
