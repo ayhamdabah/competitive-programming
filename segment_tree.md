@@ -5,6 +5,8 @@
 
 * __Problems__
 
+  * [E. Painting the Fence](https://codeforces.com/gym/101911/problem/E) ([submission](https://codeforces.com/gym/101911/submission/144164422))
+  * [E. Complicated Computations](https://codeforces.com/contest/1436/problem/E) ([submission](https://codeforces.com/contest/1436/submission/144076353))
 
 
 # Lazy ST
@@ -14,6 +16,8 @@
 
 * __Problems__
 
+  * [E. Copying Data](https://codeforces.com/problemset/problem/292/E) ([TODO]())
+  * [I. Strange Mex](https://codeforces.com/gym/102862/problem/I) ([submission](https://codeforces.com/gym/102862/submission/143921192))
 
 
 # Persistent ST
