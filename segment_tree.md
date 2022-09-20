@@ -26,3 +26,16 @@
 * __Problems__
 
   * [C. Till I Collapse](https://codeforces.com/contest/786/problem/C) ([submission](https://codeforces.com/contest/786/submission/172295333))
+
+
+
+# ST Beats
+* __Blogs__
+
+  * [A simple introduction to "Segment tree beats"](https://codeforces.com/blog/entry/57319)
+  * [USACO Segment Tree Beats](https://usaco.guide/adv/segtree-beats?lang=cpp)
+
+
+* __Problems__
+
+  * [D. The Child and Sequence](https://codeforces.com/contest/438/problem/D) ([submission]())
