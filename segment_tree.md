@@ -7,6 +7,8 @@
 
   * [E. Painting the Fence](https://codeforces.com/gym/101911/problem/E) ([submission](https://codeforces.com/gym/101911/submission/144164422))
   * [E. Complicated Computations](https://codeforces.com/contest/1436/problem/E) ([submission](https://codeforces.com/contest/1436/submission/144076353))
+  * [F. SUM and REPLACE](https://codeforces.com/problemset/problem/920/F) ([submission](https://codeforces.com/contest/920/submission/115521562))
+  * [C. Circular RMQ](https://codeforces.com/problemset/problem/52/C) ([TODO]())
 
 
 # Lazy ST
