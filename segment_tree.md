@@ -20,6 +20,8 @@
 
   * [E. Copying Data](https://codeforces.com/problemset/problem/292/E) ([TODO]())
   * [I. Strange Mex](https://codeforces.com/gym/102862/problem/I) ([submission](https://codeforces.com/gym/102862/submission/143921192))
+  * [E. A Simple Task](https://codeforces.com/problemset/problem/558/E) ([TODO]())
+  * [E. Alphabet Permutations](https://codeforces.com/problemset/problem/610/E) ([TODO]())
 
 
 # Persistent ST
